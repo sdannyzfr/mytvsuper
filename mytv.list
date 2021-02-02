@@ -1,5 +1,6 @@
 # Mytvsuper
 #PROCESS-NAME,Mytvsuper.exe
+#IP FROM https://ipinfo.io/AS9253
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvbartistblog.com.hk
 DOMAIN-SUFFIX,tvbartisteblog.com
