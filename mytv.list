@@ -1,0 +1,20 @@
+# Mytvsuper
+#PROCESS-NAME,Mytvsuper.exe
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvbartistblog.com.hk
+DOMAIN-SUFFIX,tvbartisteblog.com
+DOMAIN-SUFFIX,tvbartistblog.cn
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvbcharity.org
+DOMAIN-SUFFIX,tvbmusic.com.hk
+DOMAIN-SUFFIX,tvb.com.cn
+IP-CIDR,103.84.220.0/22,no-resolve
+IP-CIDR,103.84.222.0/24,no-resolve
+IP-CIDR,202.126.48.0/20,no-resolve
+IP-CIDR,202.126.53.0/24,no-resolve
+IP-CIDR,202.126.54.0/23,no-resolve
+IP-CIDR,202.126.56.0/21,no-resolve
+IP-CIDR,202.126.56.0/22,no-resolve
+IP-CIDR,202.126.60.0/22,no-resolve
+IP-CIDR,45.115.196.0/22,no-resolve
+IP-CIDR6,2406:9400::/32,no-resolve
