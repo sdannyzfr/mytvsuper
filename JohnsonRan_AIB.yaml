@@ -13,7 +13,7 @@ proxies:
 proxy-providers:
   Sub-Store:
     <<: *p
-    url: "此处填入你的订阅地址"
+    url: "https://hongxingyun10.vip/hxyunvip?token=d7fc4c25465a03e3e79ebe8852b3d2b6"
 
 mixed-port: 7890
 ipv6: false
